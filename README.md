@@ -6,28 +6,28 @@
 
 # Python-Mini-Projects
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-72-blue.svg?style=flat-square)](#contributors-)
-![Issues](https://img.shields.io/github/issues/chavarera/python-mini-projects)
-![Pull Requests](https://img.shields.io/github/issues-pr/chavarera/python-mini-projects?)
-![Forks](https://img.shields.io/github/forks/chavarera/python-mini-projects)
-![Stars](https://img.shields.io/github/stars/chavarera/python-mini-projects)
-![License](https://img.shields.io/github/license/chavarera/python-mini-projects)
+[![All Contributors](https://img.shields.io/github/contributors/Python-World/python-mini-projects)](#contributors-)
+![Issues](https://img.shields.io/github/issues/Python-World/python-mini-projects)
+![Pull Requests](https://img.shields.io/github/issues-pr/Python-World/python-mini-projects?)
+![Forks](https://img.shields.io/github/forks/Python-World/python-mini-projects)
+![Stars](https://img.shields.io/github/stars/Python-World/python-mini-projects)
+![License](https://img.shields.io/github/license/Python-World/python-mini-projects)
 
 A collection of simple python mini projects to enhance your Python skills.
 
-If you want to learn about python, visit [here.](https://github.com/Python-World/PythonScript)
+If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
 
 If you are new to Github and open source then, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ## Steps To Follow
 
-- Select an issue and ask to be *assigned* to it.
-- Check existing scripts [project here.](https://github.com/AdityaJ7/python-mini-projects/tree/master/projects)
-- **Star** the repository.
-- On the [GitHub page for this repository](https://github.com/Python-World/python-mini-projects), click on the Button "**Fork**".
-   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-- Create clone ***your forked repository*** on your local machine.
-   ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
+- Select an issue and ask to be _assigned_ to it.
+- Check existing scripts in the [projects](/projects/) directory.
+- **Star** this repository.
+- On the [python-mini-projects](https://github.com/Python-World/python-mini-projects) repo page, click the **Fork** button.
+    <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
+- **Clone** your forked repository to your local machine. This button will show you the URL to run.
+    <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
 
     For example, run this command inside your terminal:
 
@@ -46,6 +46,8 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     git pull upstream master
     git push
     ```
+    
+    Alternatively, GitHub also provides syncing now - click "Fetch upstream" at the top of your repo below "Code" button.
 
 - If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
@@ -68,7 +70,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     git commit -m "<your message>"
     ```
 
-- Push the code *to your repository*.
+- Push the code _to your repository_.
 
     ```bash
     git push origin <branch-name>
@@ -87,7 +89,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 ## Connect On Social media
 
-[Join WhatsApp group](https://chat.whatsapp.com/Ghp25kidWLaGrAVA0G0GAa)
+[Join WhatsApp group](https://chat.whatsapp.com/GlLTqQSbocLC23ntKU15O9)
 
 ## Contributors ✨
 
@@ -194,3 +196,5 @@ SR No   | Project | Author
 99 | [Find IMDB Ratings](https://github.com/Python-World/python-mini-projects/tree/master/projects/Find_imdb_rating)| [Utkarsh Bajaj](https://github.com/utkarshbajaj)
 100 | [Terminal Based Hangman Game](https://github.com/Python-World/python-mini-projects/tree/master/projects/Terminal_Based_Hangman_Game)| [neohboonyee99](https://github.com/neohboonyee99)
 101 | [Whatsapp Bot](https://github.com/Python-World/python-mini-projects/tree/master/projects/whatsapp_Bot)| [urmil89](https://github.com/urmil89)
+102 | [Zip Bruter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
+103 | [CountDown Timer](https://github.com/Python-World/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
